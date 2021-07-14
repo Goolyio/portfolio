@@ -5,7 +5,7 @@ addons.setConfig({
   theme: {
     ...themes.dark,
     brandImage: 'https://codyb.co/icon.svg',
-    brandTitle: 'Cody Bennett Components',
+    brandTitle: 'Kieran Gookey Components',
     brandUrl: 'https://codyb.co',
   },
 });

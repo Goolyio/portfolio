@@ -17,7 +17,7 @@ import macbookPro from 'assets/macbook-pro.glb';
 import portrait from 'assets/portrait.glb';
 import './index.css';
 
-const disciplines = ['Developer', 'Creator', 'Animator', 'Illustrator', 'Musician'];
+const disciplines = ['Backend', 'Frontend', 'Database', 'Cloud'];
 
 const Home = () => {
   const { status } = useRouteTransition();
@@ -132,7 +132,7 @@ const Home = () => {
   return (
     <div className="home">
       <Helmet>
-        <title>Cody Bennett | Designer + Developer</title>
+        <title>Kieran Gookey | Designer + Developer</title>
         <meta
           name="description"
           content="Portfolio of Cody Jason Bennett – a multidisciplinary designer & developer with a focus on motion and user experience."

@@ -98,7 +98,7 @@ const Contact = () => {
   return (
     <Section className={classNames('contact', `contact--${status}`)}>
       <Helmet>
-        <title>Contact | Cody Bennett</title>
+        <title>Contact | Kieran Gookey</title>
         <meta
           name="description"
           content="Send me a message if you’re interested in discussing a project or if you just want to say hi"

@@ -26,7 +26,7 @@ const Page404 = lazy(() => import('pages/404'));
 export const AppContext = createContext();
 export const TransitionContext = createContext();
 
-const repoPrompt = `\u00A9 2017-${new Date().getFullYear()} Cody Bennett\n\nCheck out the source code: https://github.com/CodyJasonBennett/portfolio`;
+const repoPrompt = `\u00A9 2017-${new Date().getFullYear()} Kieran Gookey\n\nCheck out the source code: https://github.com/CodyJasonBennett/portfolio`;
 
 const App = () => {
   const [storedTheme] = useLocalStorage('theme', 'dark');
