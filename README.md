@@ -29,3 +29,18 @@ To run tests:
 ```bash
 yarn test
 ```
+
+
+# Stuff I want to keep from portfolio
+
+* intro__text 
+	- The text witht he sliding change
+* intro-title - Scrambled in text like matrix
+* Load animation
+* Moving model of employee (need to change to be like me)
+* Contact
+
+
+# Stuff want to change
+	- All on one page
+	- 
